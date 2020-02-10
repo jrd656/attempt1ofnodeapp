@@ -1,0 +1,24 @@
+{
+  "name": "attempt1ofnodeapp",
+  "version": "1.0.0",
+  "description": "practising node apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrd656/attempt1ofnodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrd656/attempt1ofnodeapp/issues"
+  },
+  "homepage": "https://github.com/jrd656/attempt1ofnodeapp#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
